@@ -1,0 +1,28 @@
+name: Glass Work
+favicon: null
+layout_spectrum: 0.8069692756980658
+typography_spectrum: 0.6506668776273727
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8317150180228055
+  lightness: 0.033143664011731744
+  saturation: 0.8373115563299507
+  rhythmicContrast: 0.18931979429908097
+purpose: []
